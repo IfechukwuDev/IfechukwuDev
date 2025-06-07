@@ -10,7 +10,6 @@
 ## 🛠️ Skills
 - 🎨 WordPress
 - 💻 Git | GitHub | VS Code
-- 🌐 Learning CSS | JavaScript
 - 📘 Learning: Learning CSS , JavaScript , Python , Java 
 
 
